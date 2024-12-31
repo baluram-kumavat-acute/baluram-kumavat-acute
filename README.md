@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @baluram-kumavat-acute, a passionate software developer at Acute Informatics Pvt Ltd.
+- 👀 I’m interested in building scalable applications, open-source contributions, and exploring new technologies.
+- 🌱 I’m currently learning advanced Node.js, cloud computing, and enhancing my skills in full-stack development.
+- 💞️ I’m looking to collaborate on innovative projects, open-source libraries, and web application development.
+- 📫 How to reach me: [baluram.kumavat@acuteinformatics.com](mailto:baluram.kumavat@acuteinformatics.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving challenging coding problems and am a big fan of logic puzzles.
